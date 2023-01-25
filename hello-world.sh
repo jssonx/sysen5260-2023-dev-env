@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "Hello anonymous-student!"
+echo "Hello Jsson!"
